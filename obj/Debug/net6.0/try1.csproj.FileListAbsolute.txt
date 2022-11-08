@@ -1,0 +1,15 @@
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\try1.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\try1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\try1.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\try1.AssemblyInfo.cs
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\try1.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\try1\try1\bin\Debug\net6.0\try1.exe
+C:\Users\Comp\source\repos\try1\try1\bin\Debug\net6.0\try1.deps.json
+C:\Users\Comp\source\repos\try1\try1\bin\Debug\net6.0\try1.runtimeconfig.json
+C:\Users\Comp\source\repos\try1\try1\bin\Debug\net6.0\try1.dll
+C:\Users\Comp\source\repos\try1\try1\bin\Debug\net6.0\try1.pdb
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\try1.dll
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\refint\try1.dll
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\try1.pdb
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\try1.genruntimeconfig.cache
+C:\Users\Comp\source\repos\try1\try1\obj\Debug\net6.0\ref\try1.dll
